@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bite_react_todo/static/css/main.f83b1c25.css",
+    "main.js": "/bite_react_todo/static/js/main.534b683a.js",
+    "index.html": "/bite_react_todo/index.html",
+    "main.f83b1c25.css.map": "/bite_react_todo/static/css/main.f83b1c25.css.map",
+    "main.534b683a.js.map": "/bite_react_todo/static/js/main.534b683a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f83b1c25.css",
+    "static/js/main.534b683a.js"
+  ]
+}
