@@ -11,19 +11,25 @@ const mockTodo = [
   {
     id: 0,
     isDone: false,
-    content: "React todo1",
+    content: "Review with dev team",
     createdDate: new Date().getTime(),
   },
   {
     id: 1,
-    isDone: false,
-    content: "React todo2",
+    isDone: true,
+    content: "Finalize slider component",
     createdDate: new Date().getTime(),
   },
   {
     id: 2,
     isDone: false,
-    content: "React todo3",
+    content: "Change theme colors",
+    createdDate: new Date().getTime(),
+  },
+  {
+    id: 3,
+    isDone: false,
+    content: "Make a to-do list app",
     createdDate: new Date().getTime(),
   }
 ];
