@@ -9,7 +9,9 @@ const TodoItem = ({id, content, isDone, createdDate}) => {
   }
 
   const onClickDelete = () => {
-    onDelete(id)
+    if(window.confirm("Are you sure you want to delete?")){
+      onDelete(id);
+    }
   }
 
   console.log(`${id} 업데이트`)
