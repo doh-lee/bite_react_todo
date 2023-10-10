@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/bite_react_todo/static/css/main.648d6f60.css",
-    "main.js": "/bite_react_todo/static/js/main.616d5308.js",
+    "main.js": "/bite_react_todo/static/js/main.152a0eeb.js",
     "index.html": "/bite_react_todo/index.html",
     "main.648d6f60.css.map": "/bite_react_todo/static/css/main.648d6f60.css.map",
-    "main.616d5308.js.map": "/bite_react_todo/static/js/main.616d5308.js.map"
+    "main.152a0eeb.js.map": "/bite_react_todo/static/js/main.152a0eeb.js.map"
   },
   "entrypoints": [
     "static/css/main.648d6f60.css",
-    "static/js/main.616d5308.js"
+    "static/js/main.152a0eeb.js"
   ]
 }
